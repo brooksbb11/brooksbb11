@@ -3,7 +3,7 @@
 My name is Brittany, coding from Arizona 
 
 # About Me
-Motivated data analyst who will earn a professional certificate in Data Analytics and Visualization from the University of Arizona in August 2023 and a Bachelor's Degree in Elementary Education from the University of Northern Iowa. Experienced in data analysis, data management, and business intelligence. Proficient in Python, Pandas, SQL, Excel, Tableau, Machine Learning, and more. Seeking a challenging position as a data analyst where I can leverage my analytical mindset and technical proficiency to drive data-driven decision-making, optimize business processes, and contribute to organizational success. 
+Motivated data analyst who earned a professional certificate in Data Analytics and Visualization from the University of Arizona on August 7th, 2023 and a Bachelor's Degree in Elementary Education from the University of Northern Iowa. Experienced in data analysis, data management, and business intelligence. Proficient in Python, Pandas, SQL, Excel, Tableau, Machine Learning, and more. Seeking a challenging position as a data analyst where I can leverage my analytical mindset and technical proficiency to drive data-driven decision-making, optimize business processes, and contribute to organizational success. 
 
 # Skills
 -Data Analysis, Data Visualization, Data Modeling, ETL, Data Manipulation, etc.
